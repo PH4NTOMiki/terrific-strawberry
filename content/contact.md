@@ -1,6 +1,6 @@
 ---
 title: Contact
-subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
+subtitle: troola
 content_img:
   enabled: true
   path: images/pic10.jpg
